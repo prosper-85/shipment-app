@@ -28,7 +28,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ShipmentApp.git
+   git clone https://github.com/prosper-85/shipment-app.git
    cd ShipmentApp
    ```
 2. Install dependencies:
